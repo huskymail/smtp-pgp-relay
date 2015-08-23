@@ -1,0 +1,7 @@
+requires 'Net::SMTP::Server';
+requires 'Net::DNS';
+requires 'Net::SMTP';
+requires 'HTTP::Tiny';
+requires 'JSON';
+requires 'Email::Simple';
+requires 'Crypt::OpenPGP';
